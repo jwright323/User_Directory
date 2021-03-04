@@ -24,3 +24,13 @@ This application allows users to view their company's employee directory to quic
 * [npm axios](https://www.npmjs.com/package/axios)
 * [npm gh-pages](https://www.npmjs.com/package/gh-pages)
 * [Visual Studio Code](code.visualstudio.com)
+
+
+
+
+
+
+## License
+
+This repository is licensed under the MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
