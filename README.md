@@ -12,3 +12,5 @@
 <p>&nbsp;<p>
 
 ## Description
+
+This application allows users to view their company's employee directory to quickly obtain information on each employee. Its React functionality lets the user search for a specific employee, view that employee's listed information and sort the employees by either name, phone, email and/or DOB. When you search for an employee, it will immediately display their info.
