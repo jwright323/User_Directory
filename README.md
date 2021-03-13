@@ -14,7 +14,7 @@ This application allows users to view their company's employee directory to quic
 
 ## Installation
 
-1. git clone: git@github.com:jwright323/userdirectory.git
+1. git clone: git@github.com/jwright323/userdirectory.git
 2. Run npm start
 3. Open http://localhost:3000 to view it in the browser.
 
