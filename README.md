@@ -34,7 +34,7 @@ An employee and/or manager having access to view non-sensitive data about other 
 * Filter the users by at least one property.
 
 ### Github Link
-[Employee-Directory Github Link](https://jwright323.github.io/User_Directory/)
+[User Directory Github Link](https://jwright323.github.io/User_Directory/)
 
 ## License
 
